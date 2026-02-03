@@ -6,13 +6,13 @@ class HomePage03 extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: AppBar(title: Center(child: Text('VINCENT COLLINTAN'))),
+      appBar: AppBar(title: Center(child: Text('Steven Lie'))),
       body: Padding(
         padding: EdgeInsets.all(20),
         child: Center(
           child: Column(
             mainAxisAlignment: MainAxisAlignment.center,
-            children: [Text('HALO VINCENT COLLINTAN')],
+            children: [Text('HALO Steven Lie')],
           ),
         ),
       ),

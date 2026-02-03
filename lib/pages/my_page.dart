@@ -10,29 +10,29 @@ class MyPage extends StatelessWidget {
 
   final data = [
     ChatItem(
-      name: 'Calvin Wijaya',
-      message: 'Halo',
+      name: 'Vincent Collin Tan',
+      message: 'Okeeee',
       month: 'Januari',
       page: HomePage01(),
       imagePath: "assets/img/avatar01.jpg",
     ),
     ChatItem(
-      name: 'Cecep',
-      message: 'Yoo',
+      name: 'Reva',
+      message: 'Iyaaaa',
       month: 'Februari',
       page: HomePage02(),
       imagePath: "assets/img/avatar02.jpg",
     ),
     ChatItem(
-      name: 'Vincent Collintan',
-      message: 'Hai',
+      name: 'Steven Lie',
+      message: 'Lg dimana?',
       month: 'Maret',
       page: HomePage03(),
       imagePath: "assets/img/avatar03.jpg",
     ),
     ChatItem(
-      name: 'MICHAEL ',
-      message: 'Salam Kenal',
+      name: 'Calvin Wijaya',
+      message: 'P',
       month: 'April',
       page: HomePage04(),
       imagePath: "assets/img/avatar04.jpg",

@@ -14,28 +14,28 @@ class MyPage extends StatelessWidget {
       message: 'Halo',
       month: 'Januari',
       page: HomePage01(),
-      imagePath: "assets/img/image.png",
+      imagePath: "assets/img/avatar01.jpg",
     ),
     ChatItem(
       name: 'Cecep',
       message: 'Yoo',
       month: 'Februari',
       page: HomePage02(),
-      imagePath: "assets/img/image.png",
+      imagePath: "assets/img/avatar02.jpg",
     ),
     ChatItem(
       name: 'Vincent Collintan',
       message: 'Hai',
       month: 'Maret',
       page: HomePage03(),
-      imagePath: "assets/img/image.png",
+      imagePath: "assets/img/avatar03.jpg",
     ),
     ChatItem(
       name: 'MICHAEL LAU',
       message: 'Salam Kenal',
       month: 'April',
       page: HomePage04(),
-      imagePath: "assets/img/image.png",
+      imagePath: "assets/img/avatar04.jpg",
     ),
   ];
 

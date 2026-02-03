@@ -31,7 +31,7 @@ class MyPage extends StatelessWidget {
       imagePath: "assets/img/avatar03.jpg",
     ),
     ChatItem(
-      name: 'MICHAEL',
+      name: 'MICHAEL ',
       message: 'Salam Kenal',
       month: 'April',
       page: HomePage04(),

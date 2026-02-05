@@ -12,7 +12,7 @@ class HomePage01 extends StatelessWidget {
         child: Center(
           child: Column(
             mainAxisAlignment: MainAxisAlignment.center,
-            children: [Text('HALO Vincent Collin Tan')],
+            children: [Text('Halo Vincent Collin Tan')],
           ),
         ),
       ),
